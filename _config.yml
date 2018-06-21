@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: student / 中德学院
 url: "http://baixin.io"
 
 # Comment
@@ -16,9 +16,9 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: johnny0001
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: q987515912@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
