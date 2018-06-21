@@ -15,7 +15,7 @@ title: 关于我
 
 <p>
 
-COMMITMENT TI EXCELLENT
+COMMITMENT TO EXCELLENT
 
 <p>
 
